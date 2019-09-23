@@ -4,7 +4,7 @@
     package="org.pixelexperience.recorder">
 
     <!-- This is needed for aosp build env -->
-    <uses-sdk android:minSdkVersion="28"
+    <uses-sdk android:minSdkVersion="29"
         tools:ignore="GradleOverrides" />
 
     <uses-permission
